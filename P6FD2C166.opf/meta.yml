@@ -1,0 +1,618 @@
+id: P6FD2C166
+initial_creation_type: input
+source_metadata:
+  title: Laṅkāvatārasūtra
+  language: zh
+  volumes:
+    cc2b158c92654216aa5434ef9c523055:
+      title: CHAPTER FIVE. ON THE DEDUCTION OF THE PERMANENCY OF TATHAGATAHOOD
+      base_file: CHAPTER FIVE. ON THE DEDUCTION OF THE PERMANENCY OF TATHAGATAHOOD.txt
+      work_id: WA37E0AD6
+    a266c0cf63b34000ad141b875a5487f2:
+      title: CHAPTER FOUR. ON INTUITIVE UNDERSTANDING
+      base_file: CHAPTER FOUR. ON INTUITIVE UNDERSTANDING.txt
+      work_id: WADC49727
+    fffd965d3f5e499e83eb3cd9989345c1:
+      title: CHAPTER NINE. THE DHĀRANĪS
+      base_file: CHAPTER NINE. THE DHĀRANĪS.txt
+      work_id: WB8182424
+    d02e8bb69e924a60b87b2cd3099ab2af:
+      title: CHAPTER SEVEN. ON TRANSFORMATION
+      base_file: CHAPTER SEVEN. ON TRANSFORMATION.txt
+      work_id: WDD135CB9
+    297a92a39d7045efbddb28ba2eba3fb3:
+      title: CHAPTER SIX. ON MOMENTARINESS
+      base_file: CHAPTER SIX. ON MOMENTARINESS.txt
+      work_id: W52A4B27A
+    6858b3d8f60045888d49fc7b427d6eec:
+      title: CIII_§LVII
+      base_file: CIII_§LVII.txt
+      work_id: W84487840
+    7d2f91e52b854f1dbe4c63b9121d25ec:
+      title: CII_Uttarapadaśatam
+      base_file: CII_Uttarapadaśatam.txt
+      work_id: W3847229F
+    14384008bcb649228f7ce00489bdac28:
+      title: CII_Verse 132
+      base_file: CII_Verse 132.txt
+      work_id: W7B2576FB
+    b2a761286f8342d1bbad304d3e31b9fe:
+      title: CII_Verse 133
+      base_file: CII_Verse 133.txt
+      work_id: W9859F795
+    e3638b3b32dd4291b8a9463d96bb00d4:
+      title: CII_Verse 149-160
+      base_file: CII_Verse 149-160.txt
+      work_id: WACD5EFE1
+    17428026c80a4655b22570ca40a39fbe:
+      title: CII_Verse 161-64
+      base_file: CII_Verse 161-64.txt
+      work_id: W4384FF27
+    2be22ae60c7e41ac87c2125092b995c3:
+      title: CII_Verse 99-124
+      base_file: CII_Verse 99-124.txt
+      work_id: W9B3F8FF4
+    5a9c64f1656b4f00a0e9aa4e45a654d7:
+      title: CII_verse 26-50
+      base_file: CII_verse 26-50.txt
+      work_id: W4AC8BD80
+    204a8f106ebc4439b468fed15993fe4c:
+      title: CII_verse 51-75
+      base_file: CII_verse 51-75.txt
+      work_id: W42655843
+    2029e4d183c6410c86b393ea6066b34d:
+      title: CII_verse 76-97
+      base_file: CII_verse 76-97.txt
+      work_id: WB7F2254F
+    7b666ed70873424eb62a6dd375542a72:
+      title: 'CII_§I: Mahāmati Praises the Buddha with Verses, verse 1-8'
+      base_file: 'CII_§I: Mahāmati Praises the Buddha with Verses, verse 1-8.txt'
+      work_id: W3A1B7CAE
+    5bbed03d7b594b239bb05ffbcb524d72:
+      title: 'CII_§II: Mahāmati''s “One Hundred and Eight Questions”, verse 9-25'
+      base_file: 'CII_§II: Mahāmati''s “One Hundred and Eight Questions”, verse 9-25.txt'
+      work_id: W4E565840
+    fc354908f248452d8c67a7ab33b14b90:
+      title: 'CII_§III: “The One Hundred and Eight Negations”, verse 98'
+      base_file: 'CII_§III: “The One Hundred and Eight Negations”, verse 98.txt'
+      work_id: W64E0DA90
+    e6488762747b4716a047a50614e1bd5c:
+      title: 'CII_§IV: Concerning the Vijñānas'
+      base_file: 'CII_§IV: Concerning the Vijñānas.txt'
+      work_id: W3EECAB33
+    080f12eb22154de3b93ffa3540ba1336:
+      title: CII_§IX: The Evolution and Function of the Vijñānas; The Spiritual Discipline
+        of the Bodhisattva; Verses on the Ālaya-ocean and Vijñāna-waves
+      base_file: CII_§IX: The Evolution and Function of the Vijñānas; The Spiritual
+        Discipline of the Bodhisattva; Verses on the Ālaya-ocean and Vijñāna-waves.txt
+      work_id: W8522D025
+    9184dc5f0d8747018616fb1bc6dccd05:
+      title: 'CII_§V: Seven Kinds of Self-nature (svabhāva).'
+      base_file: 'CII_§V: Seven Kinds of Self-nature (svabhāva)..txt'
+      work_id: WA7BA1ADA
+    91495215d61849f3a049b2fdc537c505:
+      title: 'CII_§VI: Seven Kinds of First Principle (paramārtha), and the Philosophers’
+        Wrong Views regarding the Mind Rejected'
+      base_file: 'CII_§VI: Seven Kinds of First Principle (paramārtha), and the Philosophers’
+        Wrong Views regarding the Mind Rejected.txt'
+      work_id: WB8AC8EA3
+    4daeda1897784a3f9def01926160268a:
+      title: 'CII_§VII: Erroneous Views held by Some Brahmans and Śramanas Concerning
+        Causation, Continuation, etc.; The Buddhist Views Concerning Such Subjects
+        as Alayavijñāna, Nirvana, Mind-only, etc.; Attainments of the Bodhisattva'
+      base_file: 'CII_§VII: Erroneous Views held by Some Brahmans and Śramanas Concerning
+        Causation, Continuation, etc.; The Buddhist Views Concerning Such Subjects
+        as Alayavijñāna, Nirvana, Mind-only, etc.; Attainments of the Bodhisattva.txt'
+      work_id: W05764034
+    4a67ebf1efc34d308dfbfca2cb3bf92d:
+      title: CII_§VIII: The Bodhisattva's Discipling himself in Self-realisation
+      base_file: CII_§VIII: The Bodhisattva's Discipling himself in Self-realisation.txt
+      work_id: WDB675174
+    fcb5bf6097c242069f18ea3a167e6325:
+      title: CII_§X: The Bodhisattva is to Understand the Signification of Mind-only
+      base_file: CII_§X: The Bodhisattva is to Understand the Signification of Mind-only.txt
+      work_id: W1AC2D8DD
+    e57cff833b5442e8ac7125200a49fe6a:
+      title: CII_§XI(a): The Three Aspects of Noble Wisdom (āryajñāna).
+      base_file: CII_§XI(a): The Three Aspects of Noble Wisdom (āryajñāna)..txt
+      work_id: WC3355484
+    889536db0a5d40e194c2cd180e833132:
+      title: CII_§XI(b): The Attainment of the Tathāgatakāya
+      base_file: CII_§XI(b): The Attainment of the Tathāgatakāya.txt
+      work_id: W5A045869
+    f3f4b59785164136827bc6adc9e7ba1e:
+      title: CII_§XII: Logic on the Hare's Horns
+      base_file: CII_§XII: Logic on the Hare's Horns.txt
+      work_id: W5447EAE4
+    5dfb883539f14a24a56011a2e0ab9ed0:
+      title: CII_§XIII: Verses on the Ālayavijñāna and Mind-only, verse 123-127
+      base_file: CII_§XIII: Verses on the Ālayavijñāna and Mind-only, verse 123-127.txt
+      work_id: WD6A60BBB
+    11586f68de984cc0aaa6038641614c2b:
+      title: CII_§XIV: Purification of the Outflows, Instantaneous and Gradual
+      base_file: CII_§XIV: Purification of the Outflows, Instantaneous and Gradual.txt
+      work_id: W8D958A7D
+    a4f024a161ee494293ad4b8d522d08cb:
+      title: 'CII_§XIX: All Things are Unborn'
+      base_file: 'CII_§XIX: All Things are Unborn.txt'
+      work_id: W3249C094
+    67e10c961a244d309dac342fab054828:
+      title: 'CII_§XL: Two Kinds of the Buddha''s Sustaining Power (adhiṣṭhāna).'
+      base_file: 'CII_§XL: Two Kinds of the Buddha''s Sustaining Power (adhiṣṭhāna)..txt'
+      work_id: W977B677A
+    05011b1335984613a76adb0507213a97:
+      title: CII_§XV: Niṣyanda-Buddha, Dharmatā-Buddha, and Nirmāṇa-Buddha
+      base_file: CII_§XV: Niṣyanda-Buddha, Dharmatā-Buddha, and Nirmāṇa-Buddha.txt
+      work_id: W04CE5CAA
+    1a9409c0a53b4b25a87a8d500d7f1ae8:
+      title: CII_§XVI: The Śrāvaka's Realisation and Attachment to the Notion of Self-nature
+      base_file: CII_§XVI: The Śrāvaka's Realisation and Attachment to the Notion
+        of Self-nature.txt
+      work_id: W08091FE0
+    b58c284923344c2bbbd380d6d980a588:
+      title: CII_§XVII: The Eternal-Unthinkable
+      base_file: CII_§XVII: The Eternal-Unthinkable.txt
+      work_id: WAAF4FDE0
+    7c5e8f30bd4141a081dd4cf6fada09f5:
+      title: CII_§XVIII: Nirvāṇa and Ālayavijñāna
+      base_file: CII_§XVIII: Nirvāṇa and Ālayavijñāna.txt
+      work_id: W768BCB84
+    4fef09beb4344d61b7a022d32ed0b61c:
+      title: 'CII_§XX: The Five Classes of Spiritual Insight'
+      base_file: 'CII_§XX: The Five Classes of Spiritual Insight.txt'
+      work_id: W2B0DD327
+    f8845fe63e9744c980873f9358bcb532:
+      title: 'CII_§XXI: Verses on the Triple Vehicle, verse 128-131'
+      base_file: 'CII_§XXI: Verses on the Triple Vehicle, verse 128-131.txt'
+      work_id: W5455CA37
+    815e382bf5374d828a61d8be424611f2:
+      title: 'CII_§XXII: Two Classes of the Icchantika'
+      base_file: 'CII_§XXII: Two Classes of the Icchantika.txt'
+      work_id: W111A4A31
+    d9701f5bbba74986896640d8e61454be:
+      title: 'CII_§XXIII: The Three Forms of Svabhāva'
+      base_file: 'CII_§XXIII: The Three Forms of Svabhāva.txt'
+      work_id: W938EF7F7
+    f69896a6dbfb4234aaa3f088e0ae4474:
+      title: 'CII_§XXIV: The Twofold Egolessness (nairātmyadvayalakṣaṇa)'
+      base_file: 'CII_§XXIV: The Twofold Egolessness (nairātmyadvayalakṣaṇa).txt'
+      work_id: WDAF1DED4
+    9cb716046bf84bc8a255b956cebcef0c:
+      title: 'CII_§XXIX: A Verse on the Philosophers'' Discriminations, verse 137'
+      base_file: 'CII_§XXIX: A Verse on the Philosophers'' Discriminations, verse
+        137.txt'
+      work_id: WCA1736C3
+    f4eda7e147f24d0b9dd6948cbadaf552:
+      title: 'CII_§XXV: Assertion and Refutation (samāropāpavāda)'
+      base_file: 'CII_§XXV: Assertion and Refutation (samāropāpavāda).txt'
+      work_id: W644A5436
+    ba00b568b6224554bae24dca154d4864:
+      title: 'CII_§XXVI: The Bodhisattva Assumes Various Personalities'
+      base_file: 'CII_§XXVI: The Bodhisattva Assumes Various Personalities.txt'
+      work_id: W3BEF2F93
+    378fe043203c47458965923dd9cf41d0:
+      title: 'CII_§XXVII: On Emptiness (śūnyatā), No-birth, and Non-duality'
+      base_file: 'CII_§XXVII: On Emptiness (śūnyatā), No-birth, and Non-duality.txt'
+      work_id: W031370DA
+    8e30e40ea93042eba0ef3a39d485c049:
+      title: 'CII_§XXVIII: The Tathāgata-Garbha and the Ego-soul'
+      base_file: 'CII_§XXVIII: The Tathāgata-Garbha and the Ego-soul.txt'
+      work_id: WD9AD8DEB
+    36d1194f759a46fda2c5593ecd537498:
+      title: 'CII_§XXX: The Four Things Needed for the Constitution of Bodhisattvahood'
+      base_file: 'CII_§XXX: The Four Things Needed for the Constitution of Bodhisattvahood.txt'
+      work_id: W3F48CF9A
+    56c736026a56450faa92a345bbb4d10e:
+      title: 'CII_§XXXI: On Causation (Six Kinds), and the Rise of Existence'
+      base_file: 'CII_§XXXI: On Causation (Six Kinds), and the Rise of Existence.txt'
+      work_id: W5C8FDA64
+    700b7c4e4a384e0cbe5f9c6ae40fa19a:
+      title: 'CII_§XXXII: Four Forms of Word-discrimination'
+      base_file: 'CII_§XXXII: Four Forms of Word-discrimination.txt'
+      work_id: W307A2986
+    f051a16c12454d0dbff8ae260ed0c624:
+      title: 'CII_§XXXIII: On Word and Discrimination and the Highest Reality'
+      base_file: 'CII_§XXXIII: On Word and Discrimination and the Highest Reality.txt'
+      work_id: W47B0F42C
+    4ca3cade3f9b48f0890764e406c8caff:
+      title: 'CII_§XXXIV: Verses on Reality and its Representations, verse 145-148'
+      base_file: 'CII_§XXXIV: Verses on Reality and its Representations, verse 145-148.txt'
+      work_id: W2F53B4BC
+    cf19d72cdbaf4ec5abfab3be9157c037:
+      title: 'CII_§XXXIX: Two Characteristics of Self-nature'
+      base_file: 'CII_§XXXIX: Two Characteristics of Self-nature.txt'
+      work_id: WE55A51F1
+    c4be2fb1aa174d27b31729d8c32c589d:
+      title: 'CII_§XXXV: Mind-only, Multitudinousness, and Analogies, with an Interpolation
+        on the Dualistic Notion of Existence'
+      base_file: 'CII_§XXXV: Mind-only, Multitudinousness, and Analogies, with an
+        Interpolation on the Dualistic Notion of Existence.txt'
+      work_id: W7879D02B
+    da54d36255e8498ab5a3c589077dafa4:
+      title: 'CII_§XXXVI: The Teaching (dharmadeśanā) of the Tathagatas'
+      base_file: 'CII_§XXXVI: The Teaching (dharmadeśanā) of the Tathagatas.txt'
+      work_id: WE414FA9B
+    4f0fdb7dd33b41059f04475279524136:
+      title: 'CII_§XXXVII: Four Kinds of Dhyāna'
+      base_file: 'CII_§XXXVII: Four Kinds of Dhyāna.txt'
+      work_id: WC3A3C93F
+    01b4c261b32841a3a9976759349225a1:
+      title: 'CII_§XXXVIII: On Nirvāṇa])Four Kinds of Dhyāna'
+      base_file: 'CII_§XXXVIII: On Nirvāṇa])Four Kinds of Dhyāna.txt'
+      work_id: W6B052F54
+    23aede836b664bd0abf1912c68eb255c:
+      title: CIV_Verse 1-10
+      base_file: CIV_Verse 1-10.txt
+      work_id: W4284CC2F
+    85458af5cd434f1ea71bd11ec6d07cf4:
+      title: CIV_Verse 11-20
+      base_file: CIV_Verse 11-20.txt
+      work_id: WC0855920
+    fc7063643e6c48a79b644f4e1a4570e3:
+      title: CIV_Verse 21-24
+      base_file: CIV_Verse 21-24.txt
+      work_id: W3BECD98B
+    57024afb61f7438786b79d1b3253e7d2:
+      title: CI_Initial questions
+      base_file: CI_Initial questions.txt
+      work_id: WE8E5F2AD
+    7ff3c3d450924007b54a7181a0d07cca:
+      title: CI_Verse 1-3
+      base_file: CI_Verse 1-3.txt
+      work_id: WEAFE532A
+    2b0027df389b406db336b89a84987c50:
+      title: CI_Verse 4-44
+      base_file: CI_Verse 4-44.txt
+      work_id: W330D32BB
+    23017a0a477c4087ad2624a7ab8b7ab4:
+      title: CV_Verse 1-10
+      base_file: CV_Verse 1-10.txt
+      work_id: W5CA8B974
+    4bff932d8f7b494e848ab5ed17abf57d:
+      title: CV_Verse 101-110
+      base_file: CV_Verse 101-110.txt
+      work_id: WF664C82F
+    f2e484f5e20a4bee9860f0facaae9c2c:
+      title: CV_Verse 11-20
+      base_file: CV_Verse 11-20.txt
+      work_id: WC6B16A4E
+    efc3570bdaed4125828563c876f11f53:
+      title: CV_Verse 111-120
+      base_file: CV_Verse 111-120.txt
+      work_id: WC064B6F0
+    4e131a97a15449cfb48c5862be690dec:
+      title: CV_Verse 121-130
+      base_file: CV_Verse 121-130.txt
+      work_id: W891F8E2D
+    2961e07d6c8b4d809fb182a45249b778:
+      title: CV_Verse 131-140
+      base_file: CV_Verse 131-140.txt
+      work_id: W96BE3BC7
+    9d1c09365a7d49eea85dd932c6be207c:
+      title: CV_Verse 141-150
+      base_file: CV_Verse 141-150.txt
+      work_id: WD946994E
+    635ba965c0bd4a0ca9fb5b01a9d16172:
+      title: CV_Verse 151-160
+      base_file: CV_Verse 151-160.txt
+      work_id: W33848004
+    d060d52c4e4d42cdb40179ac3b6e222c:
+      title: CV_Verse 161-170
+      base_file: CV_Verse 161-170.txt
+      work_id: W230C3A0A
+    e847f0afe6664e7f9989277296a26de8:
+      title: CV_Verse 171-180
+      base_file: CV_Verse 171-180.txt
+      work_id: WEFE930ED
+    999f6c11cab64d1d9a695eef7b644e5e:
+      title: CV_Verse 181-190
+      base_file: CV_Verse 181-190.txt
+      work_id: W6FC19EAB
+    410dc277a1c5450f9912af9b9467f97e:
+      title: CV_Verse 191-200
+      base_file: CV_Verse 191-200.txt
+      work_id: W8E6BA938
+    aca69422cfa54dfd97c3b30a3f610397:
+      title: CV_Verse 201-210
+      base_file: CV_Verse 201-210.txt
+      work_id: WF3AB7539
+    3dcb277fa7f44237bca03d6ac12565c1:
+      title: CV_Verse 21-30
+      base_file: CV_Verse 21-30.txt
+      work_id: W80A2E110
+    84b4bac925c8459b996a74cd4c6b1d2d:
+      title: CV_Verse 211-220
+      base_file: CV_Verse 211-220.txt
+      work_id: WC9AB5502
+    5580cf183cae4e22a0332f76fe7f8ffe:
+      title: CV_Verse 221-230
+      base_file: CV_Verse 221-230.txt
+      work_id: WA14ADA73
+    6ff3fde32d2049679f69c98264f74f6c:
+      title: CV_Verse 231-240
+      base_file: CV_Verse 231-240.txt
+      work_id: W4F993438
+    8e6f6abed7f64d3bb4a077c295e49e65:
+      title: CV_Verse 241-250
+      base_file: CV_Verse 241-250.txt
+      work_id: WF19B039E
+    854aba98a7ca45b59cb0bdc2acdd8b5e:
+      title: CV_Verse 261-270
+      base_file: CV_Verse 261-270.txt
+      work_id: WB00C3BC3
+    edbe24568094401fb6fc2cbaa75d524f:
+      title: CV_Verse 271-280
+      base_file: CV_Verse 271-280.txt
+      work_id: WAC86CCC6
+    e79bb5034ceb42e8b0cf0784b3e4c16a:
+      title: CV_Verse 281-290
+      base_file: CV_Verse 281-290.txt
+      work_id: WDE22E254
+    7e98c4bc2d2346a7a70710bb0bab406a:
+      title: CV_Verse 291-300
+      base_file: CV_Verse 291-300.txt
+      work_id: W4070BA94
+    82ef94bc3a504a74bdefaf0c25515770:
+      title: CV_Verse 301-310
+      base_file: CV_Verse 301-310.txt
+      work_id: W45A73A5A
+    1186685c1da9443a8ecb10785413cc51:
+      title: CV_Verse 31-40
+      base_file: CV_Verse 31-40.txt
+      work_id: WA6BDF077
+    dfdaff562874427b90460ece335f27cc:
+      title: CV_Verse 311-320
+      base_file: CV_Verse 311-320.txt
+      work_id: W9969330C
+    4703aa10cc87483d885e7b08374b6ece:
+      title: CV_Verse 321-330
+      base_file: CV_Verse 321-330.txt
+      work_id: WD0BCB18E
+    ca386a315e444515bc218bc1b744a14d:
+      title: CV_Verse 331-340
+      base_file: CV_Verse 331-340.txt
+      work_id: WE7F788FA
+    f8c2874570134af0aabad8626a111770:
+      title: CV_Verse 341-350
+      base_file: CV_Verse 341-350.txt
+      work_id: WFC613390
+    74372354368c4ba7b2b2b87efa75946d:
+      title: CV_Verse 351-360
+      base_file: CV_Verse 351-360.txt
+      work_id: WBAB3BA1E
+    2e9297d0138744239bb8a92b98e2cc43:
+      title: CV_Verse 361-370
+      base_file: CV_Verse 361-370.txt
+      work_id: W8995C959
+    326be11ef0ed48ea81e52e3132034a94:
+      title: CV_Verse 371-380
+      base_file: CV_Verse 371-380.txt
+      work_id: WFE889121
+    c2e0fceb96b84931901523c064c4228a:
+      title: CV_Verse 381-390
+      base_file: CV_Verse 381-390.txt
+      work_id: W0317C614
+    4d6e05110c7443cf8af7a8e111d56243:
+      title: CV_Verse 391-400
+      base_file: CV_Verse 391-400.txt
+      work_id: WAA9177C3
+    a2b94470803842268911ab122931d7ed:
+      title: CV_Verse 401-410
+      base_file: CV_Verse 401-410.txt
+      work_id: W3C12434E
+    dd64cdace8a24c4b9f2b1f05bcbd7f8c:
+      title: CV_Verse 41-50
+      base_file: CV_Verse 41-50.txt
+      work_id: W23B44547
+    a473daa04e6a49c181ecd837770255dd:
+      title: CV_Verse 411-420
+      base_file: CV_Verse 411-420.txt
+      work_id: WB9DCE803
+    7c07e0246e114571ad17ae10cfb7834f:
+      title: CV_Verse 421-430
+      base_file: CV_Verse 421-430.txt
+      work_id: W63F38424
+    ed2e7c90491f4065b51bc59e5d6a85cf:
+      title: CV_Verse 431-440
+      base_file: CV_Verse 431-440.txt
+      work_id: WDB175655
+    f656d41bc9024fd88640d300b2d0b5d7:
+      title: CV_Verse 441-450
+      base_file: CV_Verse 441-450.txt
+      work_id: W6BE22276
+    9577bbc304f048c5bf2ac40ecdb409fd:
+      title: CV_Verse 451-460
+      base_file: CV_Verse 451-460.txt
+      work_id: W1ADF9AB4
+    94ad877b6f3c4f04925b8d519f601ba7:
+      title: CV_Verse 461-470
+      base_file: CV_Verse 461-470.txt
+      work_id: W4C588E50
+    e8f07fd322914f79b7f5f1f1ca62cdb4:
+      title: CV_Verse 471-480
+      base_file: CV_Verse 471-480.txt
+      work_id: W7411C818
+    f2670840f9c542e18f3d745e9d341377:
+      title: CV_Verse 481-490
+      base_file: CV_Verse 481-490.txt
+      work_id: WD6D2B7D7
+    9e2e59b5417343a69d80a176f5a9eea4:
+      title: CV_Verse 491-500
+      base_file: CV_Verse 491-500.txt
+      work_id: W4E998C96
+    59bb069eecd44cb5b1337fc400d89d8a:
+      title: CV_Verse 501-510
+      base_file: CV_Verse 501-510.txt
+      work_id: W6373C26B
+    c03cb80b39814162a639ee8bc8f812e7:
+      title: CV_Verse 51-60
+      base_file: CV_Verse 51-60.txt
+      work_id: W054565A4
+    b0c6c816349449a1a43abc9fa58357af:
+      title: CV_Verse 511-520
+      base_file: CV_Verse 511-520.txt
+      work_id: WA048B8E1
+    c0be366760644b7fa7efe70317737521:
+      title: CV_Verse 521-530
+      base_file: CV_Verse 521-530.txt
+      work_id: WCB48C2FA
+    1288d4d05d6243bba5dffcfe7772012d:
+      title: CV_Verse 531-540
+      base_file: CV_Verse 531-540.txt
+      work_id: WE639643E
+    90f0d8c63ce540bc8d2558f9d6b578d1:
+      title: CV_Verse 541-550
+      base_file: CV_Verse 541-550.txt
+      work_id: WA400954F
+    acd8abcf35844fccb78907615563627e:
+      title: CV_Verse 551-560
+      base_file: CV_Verse 551-560.txt
+      work_id: WE4A1FA54
+    5f670ef8e703453484c762330361178b:
+      title: CV_Verse 561-570
+      base_file: CV_Verse 561-570.txt
+      work_id: WFFA3CCCA
+    5b35936252054b2f842adad6413639a9:
+      title: CV_Verse 571-580
+      base_file: CV_Verse 571-580.txt
+      work_id: WFF99799F
+    8cbd5083608a445d8cf194037ce6b6ae:
+      title: CV_Verse 581-590
+      base_file: CV_Verse 581-590.txt
+      work_id: W14D92256
+    13d7e2d7551e44a9a8cfb521a8446a80:
+      title: CV_Verse 591-600
+      base_file: CV_Verse 591-600.txt
+      work_id: W3D9FD934
+    bf291948eb974b4bb16302fc8d6a1882:
+      title: CV_Verse 601-610
+      base_file: CV_Verse 601-610.txt
+      work_id: WDC11100C
+    346b14da83c647c6b506289f1db97bcf:
+      title: CV_Verse 61-70
+      base_file: CV_Verse 61-70.txt
+      work_id: WEC463CEA
+    25f96fd129df48ea9d520817778dd754:
+      title: CV_Verse 611-620
+      base_file: CV_Verse 611-620.txt
+      work_id: WF477DF82
+    ab233fc9199747e2b9b40514c3e35612:
+      title: CV_Verse 621-630
+      base_file: CV_Verse 621-630.txt
+      work_id: W9661E6E6
+    ef054c8c7b674e02852ca462f5fd0f25:
+      title: CV_Verse 631-640
+      base_file: CV_Verse 631-640.txt
+      work_id: WE0E29427
+    7f80573ab22b4596bd45fe48100bc547:
+      title: CV_Verse 641-650
+      base_file: CV_Verse 641-650.txt
+      work_id: W4EDD400E
+    ee048edb8bbe425d82cde87dedc68320:
+      title: CV_Verse 651-660
+      base_file: CV_Verse 651-660.txt
+      work_id: WBD9FF886
+    296f69f6125342daa727330330c74b79:
+      title: CV_Verse 661-670
+      base_file: CV_Verse 661-670.txt
+      work_id: WFE716E11
+    1991b99b38de42789a767569bb378c8c:
+      title: CV_Verse 671-680
+      base_file: CV_Verse 671-680.txt
+      work_id: W849836DA
+    2ae35a4271e0437d8801ac8e2ed2e5c8:
+      title: CV_Verse 681-690
+      base_file: CV_Verse 681-690.txt
+      work_id: WA17167D1
+    4138d4a466da4f5fa76087b27ca39564:
+      title: CV_Verse 691-700
+      base_file: CV_Verse 691-700.txt
+      work_id: W30A2B3D5
+    9e53961eb095447680e20c2bbb31c15f:
+      title: CV_Verse 701-710
+      base_file: CV_Verse 701-710.txt
+      work_id: W95BBDA9E
+    ec807cb769484070b9a4a3523301875c:
+      title: CV_Verse 71-80
+      base_file: CV_Verse 71-80.txt
+      work_id: WBB1B7BF8
+    c3f193de21e94037a0a25790423e6839:
+      title: CV_Verse 711-720
+      base_file: CV_Verse 711-720.txt
+      work_id: W44A66796
+    a0c21714d7d74f43a3f9be74efebc649:
+      title: CV_Verse 721-730
+      base_file: CV_Verse 721-730.txt
+      work_id: W146331BF
+    a5b5334a69e0452eb5666a87cccc4ede:
+      title: CV_Verse 731-740
+      base_file: CV_Verse 731-740.txt
+      work_id: WB39991A4
+    ccc5e0d8956349f0a861179a1cdde8d8:
+      title: CV_Verse 741-750
+      base_file: CV_Verse 741-750.txt
+      work_id: W804D2159
+    2ae3ae05963c466fb06d10c94cef7ee7:
+      title: CV_Verse 751-760
+      base_file: CV_Verse 751-760.txt
+      work_id: W8404CD7C
+    ecab1a279ecd4f7d842de4562cb547eb:
+      title: CV_Verse 761-770
+      base_file: CV_Verse 761-770.txt
+      work_id: WA01800A3
+    4398ec992af043a9bb86e27ab7b5250c:
+      title: CV_Verse 771-780
+      base_file: CV_Verse 771-780.txt
+      work_id: W444C8444
+    02f6d41141364109a735cc8847409fdd:
+      title: CV_Verse 781-790
+      base_file: CV_Verse 781-790.txt
+      work_id: WB8098FB7
+    7ceadb12b00c46199eea0cd7bf795bce:
+      title: CV_Verse 791-800
+      base_file: CV_Verse 791-800.txt
+      work_id: WE069AC42
+    1a6f4647db7941c394c0a9b2fc9adbc7:
+      title: CV_Verse 801-810
+      base_file: CV_Verse 801-810.txt
+      work_id: W29C3AB8C
+    42774dfca42b48e6bda174b6bfd2e5e2:
+      title: CV_Verse 81-90
+      base_file: CV_Verse 81-90.txt
+      work_id: W7D8AC925
+    8c1236af82dc4003a519a98ad31d5ecd:
+      title: CV_Verse 831-840
+      base_file: CV_Verse 831-840.txt
+      work_id: W0D893854
+    047a2402ab1b44f1aea4aa679917f7d0:
+      title: CV_Verse 841-850
+      base_file: CV_Verse 841-850.txt
+      work_id: W8098858F
+    c7af45efb57e4040b75535758a0b98c3:
+      title: CV_Verse 851-860
+      base_file: CV_Verse 851-860.txt
+      work_id: W4F934404
+    c18a335883954b5890acbda4408bd9b2:
+      title: CV_Verse 861-870
+      base_file: CV_Verse 861-870.txt
+      work_id: WB988E67E
+    017d71bd8d8643e58ae950d529ce8450:
+      title: CV_Verse 871-880
+      base_file: CV_Verse 871-880.txt
+      work_id: W44193381
+    d8a1f56287544da1bd1b88294224fc91:
+      title: CV_Verse 881-890
+      base_file: CV_Verse 881-890.txt
+      work_id: W655ECC88
+    aff5616ac4a340a5827877e21170e7d6:
+      title: CV_Verse 91-100
+      base_file: CV_Verse 91-100.txt
+      work_id: WA20DDD84
+  chapter_to_tile:
+    CI: CHAPTER ONE. RĀVANA, LORD OF LANKĀ, ASKS FOR INSTRUCTION
+    CII: CHAPTER TWO. COLLECTION OF ALL THE DHARMAS
+    CIII: CHAPTER THREE. ON IMPERMANENCY
+    CIV: CHAPTER EIGHT. ON MEAT-EATING
+    CV: SAGĀTHAKAM
+created_at: '2022-03-01T21:40:35.107437'
+last_modified_at: '2022-03-01T21:40:35.107446'
